@@ -1,4 +1,4 @@
-# optical imaging
+# Optical imaging
 # Free Space Optical Propagation (Angular Spectrum Method)
 
 
