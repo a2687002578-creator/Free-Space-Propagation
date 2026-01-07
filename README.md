@@ -26,6 +26,9 @@ Where:
 Here is the simulation result of a 2mm square aperture propagating over 50cm distance ($\lambda = 632.8$ nm).
 
 ![Diffraction Pattern](results/diffraction_pattern.png)
+
+
+
 *(Left: Source Intensity; Right: Diffraction Intensity at z=50cm)*
 
 ## 3. Project Structure
