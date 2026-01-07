@@ -1,6 +1,6 @@
 % =========================================================================
 % Project: Free Space Optical Propagation (Angular Spectrum Method)
-% Author:  sun-optic
+% Author:  sun-optica
 % Date: 2026-01-07
 % Description: 
 %   This script simulates the diffraction of a plane wave through a 
