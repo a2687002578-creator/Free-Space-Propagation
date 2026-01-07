@@ -2,7 +2,7 @@
 # Free Space Optical Propagation (Angular Spectrum Method)
 
 
-#  hello optical world ！！！
+#  Hello optical world ！！！
 
 A MATLAB implementation of optical wave propagation in free space using the **Angular Spectrum Method (ASM)**. 
 
